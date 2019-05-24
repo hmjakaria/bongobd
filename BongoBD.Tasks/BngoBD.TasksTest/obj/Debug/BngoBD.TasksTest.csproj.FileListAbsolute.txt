@@ -1,0 +1,16 @@
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\obj\Debug\BngoBD.TasksTest.csprojAssemblyReference.cache
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\obj\Debug\BngoBD.TasksTest.csproj.CoreCompileInputs.cache
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\BngoBD.TasksTest.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\BngoBD.TasksTest.pdb
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\BongoBD.Tasks.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\BongoBD.Tasks.pdb
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\obj\Debug\BngoBD.TasksTest.csproj.CopyComplete
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\obj\Debug\BngoBD.TasksTest.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BngoBD.TasksTest\obj\Debug\BngoBD.TasksTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BongoBD.Tasks\obj\Debug\BongoBD.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BongoBD.Tasks\bin\Debug\BongoBD.Tasks.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BongoBD.Tasks\bin\Debug\BongoBD.Tasks.pdb
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BongoBD.Tasks\obj\Debug\BongoBD.Tasks.csprojAssemblyReference.cache
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BongoBD.Tasks\obj\Debug\BongoBD.Tasks.dll
+C:\Users\Jakaria\source\repos\BongoBD.Tasks\BongoBD.Tasks\obj\Debug\BongoBD.Tasks.pdb
