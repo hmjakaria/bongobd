@@ -37,6 +37,7 @@ namespace BongoBD.Tasks.Task03
         }
 
 
+        //Memory
         //Solution for Simple Least Common Ancestor with recursion
         public static Node Lca2(Node node1, Node node2)
         {
