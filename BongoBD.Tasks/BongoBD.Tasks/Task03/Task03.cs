@@ -8,7 +8,7 @@ namespace BongoBD.Tasks.Task03
 {
     public class Task03
     {
-        //Solution for Simple Least Common Ancestor without any recursion
+        //Solution for Least Common Ancestor without any recursion
         public static Node Lca1(Node node1, Node node2)
         {
             if (node1 == null || node2 == null) return null;
@@ -21,7 +21,6 @@ namespace BongoBD.Tasks.Task03
                 node = node.Parent;
                 ancestorsOfNode1.Add(node);
             }
-
 
             node = node2;
             List<Node> ancestorsOfNode2 = new List<Node> { node };
@@ -36,7 +35,7 @@ namespace BongoBD.Tasks.Task03
             return ancestorsOfNode1.Intersect(ancestorsOfNode2)?.FirstOrDefault();
         }
 
-        //Solution for Simple Least Common Ancestor with recursion
+        //Solution for Least Common Ancestor with recursion
         public static Node Lca2(Node node1, Node node2)
         {
             if (node1 == null || node2 == null) return null;

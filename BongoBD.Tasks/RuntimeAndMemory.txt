@@ -1,0 +1,23 @@
+Task03-Without recursion of Least Common Ancestors
+--------------------------------------------------
+Runtime requirements:
+In line 19 & 28, it will take log2(n) times seperately.
+That means, O(log2(n) + log2(n)) = O(log2(n2)
+
+Memory requirements:
+As this is not recursive function so the memory requirements for this algorithm is
+O(1)
+
+
+
+Task03-With recursion of Least Common Ancestors
+-----------------------------------------------
+Runtime requirements:
+Runtime complexity of this solution is O(h) where h is height of tree.
+
+O(h) = O(log2(n)), where n is the number of nodes
+
+Memory requirements:
+Also, this solution requires O(h) extra space in function call stack for recursive function calls.
+
+O(h) = O(log2(n)), where n is the number of nodes
